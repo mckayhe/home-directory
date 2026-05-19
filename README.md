@@ -26,4 +26,4 @@ This project is a virtualized Active Directory home lab.
 
 ## Network Diagram
 
-![Active Directory Network Diagram](diagrams/Network_Diagram.jpg)
+![Active Directory Network Diagram](home-directory/Network_Diagram.jpg)
