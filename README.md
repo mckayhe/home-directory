@@ -23,7 +23,3 @@ This project is a virtualized Active Directory home lab.
 ## Resolved Issues
 - Resolved DNS configuration issues preventing successful domain joins
 - Configured an isolated virtual network to prevent interference with the home networ
-
-## Network Diagram
-
-![Active Directory Network Diagram](home-directory/Network_Diagram.jpg)
