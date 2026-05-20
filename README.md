@@ -67,6 +67,13 @@ File Permissions
   Shared Folders
   </td>
 </tr>
+  <tr>
+    <td align="center">
+      <img width="300" height="250" alt="passwordpolicies" src="https://github.com/user-attachments/assets/ba37c7e3-d8cd-4889-9bc3-ee524be65658" /> <br>
+      Password Policies
+    </td>
+
+  </tr>
   </table>
 
 
