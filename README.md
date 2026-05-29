@@ -72,6 +72,9 @@ File Permissions
       <img width="300" height="250" alt="passwordpolicies" src="https://github.com/user-attachments/assets/ba37c7e3-d8cd-4889-9bc3-ee524be65658" /> <br>
       Password Policies
     </td>
+    <td align= "center">
+    <img width="300" height="250" alt="banner remote" src="https://github.com/user-attachments/assets/dba0effc-8bf1-4b62-81e2-2861fe178844" /> <br>
+    Banner & Remote Desktop
 
   </tr>
   </table>
